@@ -19,3 +19,9 @@
 - mongoose
 - crypto
 - dotenv
+
+## Docker
+
+- docker-compose up
+> or
+- docker build . -t url-shortener
