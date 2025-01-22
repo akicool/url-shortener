@@ -1,4 +1,3 @@
-
 ## API Endpoints
 
 - `POST /shorten`: Create a short URL
